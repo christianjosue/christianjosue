@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full stack%20web%20developer;4%2B%20years%20of%20coding%20experience;Always%20willing%20to%20learn&font=Fira%20Code&center=true&width=440&height=45&color=8325f7&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-<!--
-**christianjosue/christianjosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡️ Christian Josué
 
-Here are some ideas to get you started:
+I'm a full-stack developer who loves coding and learning about almost everything, especially technology. Currently focused on web development, but always open to discover new and uncharted areas. I build coding projects are built from the ground up, from planning and designing all the way to solving real-life problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social icons section -->
+<p>
+  <a href="mailto:christianjosuefuentes@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://skillicons.dev/icons?i=gmail"/></a>
+  &#8287;&#8287;
+  <a href="www.linkedin.com/in/christian-josué-fuentes-muñoz-a90985263"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
+
+#
+
+### 💻 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,nodejs,py,flask,docker,git,aws,html,css,bash)](https://skillicons.dev)
+
+#
+
+### 🚀 Projects
+
