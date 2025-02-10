@@ -27,6 +27,7 @@ I'm a full-stack developer who loves coding and learning about almost everything
 <a 
   href="https://music-app-vue.up.railway.app/"
   target="_blank"
+  rel="noopener noreferrer"
   align="center"
   style="
     width: 350px;
