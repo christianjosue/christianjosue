@@ -24,3 +24,29 @@ I'm a full-stack developer who loves coding and learning about almost everything
 
 ### 🚀 Projects
 
+<a 
+  href="https://music-app-vue.up.railway.app/"
+  target="_blank"
+  align="center"
+  style="
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+    background: gray;
+  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img 
+    src="https://github.com/christianjosue/christianjosue/blob/main/assets/music-app.png" 
+    alt="Music App"
+    style="
+      width: 350px;
+      border-radius: 10px;
+    " 
+  />
+  <p style="font-weight: bold;">
+    Music App
+  </p>
+</a>
