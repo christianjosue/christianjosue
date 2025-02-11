@@ -26,9 +26,9 @@ I'm a full-stack developer who loves coding and learning about almost everything
 
 <a href="https://music-app-vue.up.railway.app/" style="display: block; text-align: center;">
   <img 
-    src="https://github.com/christianjosue/christianjosue/blob/main/assets/music-app.png" 
+    src="https://github.com/christianjosue/christianjosue/blob/main/assets/music-app-playlist.png" 
     alt="Music App" 
-    width="250"
+    width="300"
   />
 </a>
 
