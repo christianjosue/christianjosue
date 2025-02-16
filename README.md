@@ -11,7 +11,7 @@ I'm a full-stack developer who loves coding and learning about almost everything
 <p>
   <a href="mailto:christianjosuefuentes@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://skillicons.dev/icons?i=gmail"/></a>
   &#8287;&#8287;
-  <a href="www.linkedin.com/in/christian-josué-fuentes-muñoz-a90985263"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/christian-josué-fuentes-muñoz-a90985263"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 #
