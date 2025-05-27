@@ -21,12 +21,34 @@ I'm a full-stack developer who loves coding and learning about almost everything
 
 ### 🚀 Projects
 
-<a href="https://music-app-vue.up.railway.app/" style="display: block; text-align: center;">
-  <img 
-    src="https://github.com/christianjosue/christianjosue/blob/main/assets/music-app-playlist.png" 
-    alt="Music App" 
-    width="300"
-  />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://music-app-vue.up.railway.app/" target="_blank">
+        <img 
+          src="https://github.com/christianjosue/christianjosue/blob/main/assets/music-app-playlist.png" 
+          alt="Music App" 
+          width="300"
+        />
+      </a>
+      <h3>🎧 Music App</h3>
+      <p style="max-width: 300px;">
+        Vue-based music streaming UI with playlist support. Built using Vue.js + Laravel.
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://christian-josue.up.railway.app/" target="_blank">
+        <img 
+          src="https://github.com/christianjosue/christianjosue/blob/main/assets/portfolio.PNG" 
+          alt="Portfolio Web" 
+          width="300"
+        />
+      </a>
+      <h3>💼 Portfolio</h3>
+      <p style="max-width: 300px;">
+        My personal developer portfolio built with Astro, showcasing my experience and projects.
+      </p>
+    </td>
+  </tr>
+</table>
 
-#### 🎧 Music App
