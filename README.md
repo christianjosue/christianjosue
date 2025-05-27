@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full stack%20web%20developer;4%2B%20years%20of%20coding%20experience;Always%20willing%20to%20learn&font=Fira%20Code&center=true&width=440&height=45&color=8325f7&vCenter=true&pause=1000&size=22" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8325F7&center=true&width=1000&height=100&lines=Full+stack+web+developer;4%2B+years+of+coding+experience;Always+willing+to+learn)](https://git.io/typing-svg)
 
 # ⚡️ Christian Josué
 
